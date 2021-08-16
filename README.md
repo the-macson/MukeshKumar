@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/the-macson/mukesh1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Hi, I'm Mukesh Kumar! 👋
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  # About Project
+## Single Page Website 
+In this website I added short description about me and In this website i used technology HTML and Bootstrap. If anyone have any suggestions about this then your welcome 😅
+  
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contributing
 
-```markdown
-Syntax highlighted code block
+Contributions are always welcome!
 
-# Header 1
-## Header 2
-### Header 3
+See `contributing.md` for ways to get started.
 
-- Bulleted
-- List
+Please adhere to this project's `code of conduct`.
 
-1. Numbered
-2. List
+  
+## Feedback
 
-**Bold** and _Italic_ and `Code` text
+If you have any feedback, please reach out to us at ak9991927952@gmail.com
 
-[Link](url) and ![Image](src)
+  
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/the-macson/MukeshKumar
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Go to the project directory
 
-### Jekyll Themes
+```bash
+  Run HTML file into Your Browser 
+```
+  
+## License
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/the-macson/mukesh1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[MIT](https://choosealicense.com/licenses/mit/)
 
-### Support or Contact
+  
+## FAQ
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Can I Contribute into this project ?
+
+ YES
+
+  
+## Screenshots
+
+![Screenshot (40)](https://user-images.githubusercontent.com/71259159/129515683-8ddc5056-24de-44f7-b400-6deef7bcc118.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/71259159/129515695-a6961aeb-6ffe-4433-89a4-63da0acb029e.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/71259159/129515698-e8072118-f3f4-4b3a-9d90-f0ec8437dcf5.png)
+
+  
+## Tech Stack
+
+**Client:** HTML, Bootstrap
+
+  
+## 🚀 About Me
+I' am a Full Stack Web developer and Currently Doing CSE Hons. and Enthusiasts in open source
+
+  
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-kumar-macson/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/the_macson)
+
+  
+## Lessons Learned
+Using this Project I Learned how to use Bootstrap Classes efficiently.
+
+  
+## Support
+
+For support, email ak9991927952@gmail.com or join on my social media handle 
+
+  
